@@ -35,9 +35,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yjt0907&color=brightgreen&style=flat-square)
 
-![yjt0907's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yjt0907&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![yjt0907's GitHub Stats](./profile/stats.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yjt0907&layout=compact&theme=radical&count_private=true)
+![Top Languages](./profile/top-langs.svg)
 
 ---
 
