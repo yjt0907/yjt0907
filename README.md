@@ -1,4 +1,4 @@
-## 👋 Hey there! I'm yjt0907
+## 👋 Hey there! I'm YJT
 
 > 世界上只有一种真正的英雄主义，那就是认清生活的真相后依然热爱生活。
 > —— 罗曼·罗兰
@@ -9,7 +9,7 @@
 
 [![Organization](https://img.shields.io/badge/SpeechLab--HDU-杭电语音实验室-181717?style=for-the-badge&logo=github)](https://github.com/SpeechLab-HDU)
 
-组织专注于语音与音频方向的算法研究，我主要负责 **语音增强 (Speech Enhancement)**。
+组织专注于语音与音频方向的算法研究。
 
 ---
 
