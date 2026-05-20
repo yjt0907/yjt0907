@@ -18,15 +18,8 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-4A9BE2?style=for-the-badge&logo=verilog&logoColor=white)
-
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![FPGA](https://img.shields.io/badge/FPGA-E34F26?style=for-the-badge&logo=amd&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vivado](https://img.shields.io/badge/Vivado-F7952B?style=for-the-badge&logo=&logoColor=white)
 ![Keil](https://img.shields.io/badge/Keil-394049?style=for-the-badge&logo=arm&logoColor=white)
 
 ---
