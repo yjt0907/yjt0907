@@ -9,8 +9,7 @@
 
 [![Organization](https://img.shields.io/badge/SpeechLab--HDU-杭电语音实验室-181717?style=for-the-badge&logo=github)](https://github.com/SpeechLab-HDU)
 
-专注于语音与音频方向的算法研究，涵盖：
-**语音识别 (ASR)** · **语音增强 (SE)** · **语音大模型 (Speech LLM)** · **脉冲神经网络 (SNN)** · **关键词唤醒 (KWS)** · **音频编解码 (Audio Codec)**
+组织专注于语音与音频方向的算法研究，我主要负责 **语音增强 (Speech Enhancement)**。
 
 ---
 
