@@ -30,7 +30,11 @@
 
 ![yjt0907's GitHub Stats](./profile/stats.svg)
 
-![Top Languages](./profile/top-langs.svg)
+---
+
+### 🎙️ Featured Project
+
+[**MelFR-FTF**](https://github.com/yjt0907/MelFR-FTF) — A lightweight causal speech enhancement model combining Mel and full-resolution features. The project page includes the architecture and evaluation results.
 
 ---
 
